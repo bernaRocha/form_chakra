@@ -28,5 +28,5 @@ const IndexPage = () => {
  
   )
 }
-
+//comentário teste
 export default IndexPage
